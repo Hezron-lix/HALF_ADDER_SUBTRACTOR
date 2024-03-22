@@ -87,4 +87,4 @@ Half_subtractor
 ![313680044-bfc83070-f266-4260-aa7d-9a60a2af1167](https://github.com/Hezron-lix/HALF_ADDER_SUBTRACTOR/assets/139331337/fb1a88d1-5862-480f-983c-18c6c2639d66)
 
 **Result:**
-
+The code is excecuted successfully.
